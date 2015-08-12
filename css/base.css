@@ -7,3 +7,8 @@ body {
   height: 100%;
   background-color: #FFF;
 }
+
+.inner {
+  margin-top:30px;
+  margin-bottom:30px;
+}
